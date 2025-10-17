@@ -1,0 +1,7 @@
+buyerId,companyName,buyerType,city,latitude,longitude,isVerified,productRequirement
+BUYER-201,FreshMart Logistics,Wholesaler,Pune,18.5204,73.8567,TRUE,Tomato
+BUYER-202,AgroPure Traders,Exporter,Nashik,20.0112,73.7909,TRUE,Onion
+BUYER-203,Satara Organics,Retailer,Satara,17.6805,74.0183,FALSE,Potato
+BUYER-204,GreenLeaf Supply Co,Wholesaler,Pune,18.5612,73.9215,TRUE,Onion
+BUYER-205,Mumbai Veggies Inc.,Exporter,Mumbai,19.0760,72.8777,TRUE,Tomato
+BUYER-206,Local Harvest Retail,Retailer,Pune,18.4597,73.8512,TRUE,Onion
