@@ -1,16 +1,32 @@
-🐍 Python Projects Repository
+🌾 Krishi Unnati — AI-Driven Smart Agriculture Platform
+🧠 Empowering Farmers with Artificial Intelligence & Smart Insights
 
-Welcome to my Python Projects collection!
-This repository contains a series of beginner to intermediate-level Python projects that I’m building to strengthen my programming skills and explore Python’s real-world applications.
+Krishi Unnati is an AI-powered mobile and web-based platform designed to assist farmers in making data-driven agricultural decisions.
+It integrates AI models, weather data, and soil insights to recommend the best crops, detect diseases, and provide market price trends — helping to maximize yield and minimize risk.
 
-📘 About
+🚀 Project Overview
 
-This repository serves as a learning journey — from basic command-line programs to advanced GUI and web-based applications using frameworks like Tkinter, Flask, and Django.
+Modern agriculture faces challenges like unpredictable weather, low productivity, and lack of access to real-time information.
+Krishi Unnati aims to solve this by providing:
 
-Each project is organized into folders with:
+🌱 Smart crop recommendations
 
-🧾 Clear source code
+📸 AI-driven plant disease detection
 
-🧠 Concept explanations
+☁️ Weather-based advisories
 
-🧪 Example runs and outputs
+💰 Real-time market price analysis
+
+🔐 Secure user authentication for farmers and experts
+
+🏗️ System Architecture
+Frontend (React Native / Expo) 
+       ↓
+Backend (Node.js + Express)
+       ↓
+AI Model (Python / TensorFlow or Scikit-learn)
+       ↓
+Database (MongoDB / Firebase)
+
+
+Each component communicates through REST APIs, ensuring modularity and scalability.
